@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/Daddy-Ji)
 
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [See it Live](https://Daddy-Ji.github.io/ValentineWish/)
 
 ## Make your own version :computer:
 
